@@ -23,19 +23,63 @@ FastAPI, Laravel, SQLAlchemy, React
 ---
 
 ## 💬 Ask me about
-FastAPI, React
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.100.0-009688?style=for-the-badge&logo=fastapi)
+![Laravel](https://img.shields.io/badge/Laravel-10-FF2D20?style=for-the-badge&logo=laravel)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Languages:** C, C#, Python, Java, JavaScript, PHP, SQL  
+**Languages:** C, Python, Java, JavaScript, PHP, SQL  
 **Frameworks:** FastAPI, Laravel, Django, Flask, CodeIgniter, React  
 **Databases:** MySQL, PostgreSQL, SQLite, MongoDB, MariaDB  
 **Other Tools:** Git, Postman, Figma, HTML, CSS  
+
+<h2>Languas</h2>
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.100.0-lightgrey?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-10-red?style=for-the-badge&logo=laravel)
+![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-Programming-darkblue?style=for-the-badge&logo=c)
+![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php)
+
+<h2>Frameworks</h2>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0.100.0-009688?style=for-the-badge&logo=fastapi)
+![Laravel](https://img.shields.io/badge/Laravel-10-FF2D20?style=for-the-badge&logo=laravel)
+![Django](https://img.shields.io/badge/Django-4.2-092E20?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-2.3-000000?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-4-EF4223?style=for-the-badge&logo=codeigniter)
+
+<h2>Base De Datos</h2>
+
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-336791?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=for-the-badge&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/MongoDB-6.0-47A248?style=for-the-badge&logo=mongodb)
+![MariaDB](https://img.shields.io/badge/MariaDB-11-003545?style=for-the-badge&logo=mariadb)
+
+<h2>Herramientas</h2>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-Design-FF7262?style=for-the-badge&logo=figma)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code)
+
+<br>
+
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-FastAPI%20%7C%20Laravel%20%7C%20React-blueviolet?style=for-the-badge)
+![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?style=for-the-badge)
 
 
 ---
