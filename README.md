@@ -8,6 +8,13 @@
   <img src="https://komarev.com/ghpvc/?username=gabrielegonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielegonzalez" />
 </p>
 
+<p aling="center">
+
+  ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+  ![Learning](https://img.shields.io/badge/Learning-FastAPI%20%7C%20Laravel%20%7C%20React-blueviolet?style=for-the-badge)
+  ![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?style=for-the-badge)
+  
+</p>
 ---
 
 ## 🔭 Current Projects
@@ -41,7 +48,7 @@ FastAPI, Laravel, SQLAlchemy, React
 **Databases:** MySQL, PostgreSQL, SQLite, MongoDB, MariaDB  
 **Other Tools:** Git, Postman, Figma, HTML, CSS  
 
-<h2>Languas</h2>
+<h2>Languages</h2>
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)
@@ -75,12 +82,6 @@ FastAPI, Laravel, SQLAlchemy, React
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code)
 
-<br>
-
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-FastAPI%20%7C%20Laravel%20%7C%20React-blueviolet?style=for-the-badge)
-![Made with Love](https://img.shields.io/badge/Made%20with-Love-red?style=for-the-badge)
-
 
 ---
 
@@ -103,6 +104,13 @@ FastAPI, Laravel, SQLAlchemy, React
   <img src="https://activity-graph.herokuapp.com/graph?username=gabrielegonzalez&theme=react-dark" />
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/TU_USUARIO"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://instagram.com/TU_USUARIO"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
 ---
 
