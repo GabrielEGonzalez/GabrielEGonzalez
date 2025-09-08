@@ -33,12 +33,16 @@ FastAPI, React
 **Frameworks:** FastAPI, Laravel, Django, Flask, CodeIgniter, React  
 **Databases:** MySQL, PostgreSQL, SQLite, MongoDB, MariaDB  
 **Other Tools:** Git, Postman, Figma, HTML, CSS  
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.100.0-lightgrey?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-10-red?style=for-the-badge&logo=laravel)
+
 
 ---
 
 ## ⚡ Fun fact
-Mi código funciona… hasta que alguien lo mira. 👀
-
+<p>Mi código funciona… hasta que alguien lo mira. 👀 <br>
+“Code is like humor. When you have to explain it, it’s bad.”</p>
 ---
 
 ## 📊 GitHub Stats
@@ -51,6 +55,10 @@ Mi código funciona… hasta que alguien lo mira. 👀
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielegonzalez&" alt="gabrielegonzalez" />
 </p>
+<p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=gabrielegonzalez&theme=react-dark" />
+</p>
+
 
 ---
 
