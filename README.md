@@ -84,7 +84,7 @@ Mi código funciona… hasta que alguien lo mira. 👀
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielegonzalez&show_icons=true&locale=en&layout=compact" alt="gabrielegonzalez" /><br>
   <img src="https://github-readme-stats.vercel.app/api?username=gabrielegonzalez&show_icons=true&locale=en" alt="gabrielegonzalez" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielegonzalez&" alt="gabrielegonzalez" /><br>
