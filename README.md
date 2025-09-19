@@ -94,12 +94,17 @@ Mi código funciona… hasta que alguien lo mira. 👀
 ---
 
 ## 🤝 Connect with me
-<p align="center">
-  <a href="https://github.com/gabrielegonzalez"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/TU_USUARIO"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://instagram.com/TU_USUARIO"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielegonzalez&show_icons=true&locale=es&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielegonzalez&show_icons=true&locale=es&layout=compact&theme=radical" alt="Lenguajes principales" />
 </p>
+<p>
+  <img src="https://streak-stats.demolab.com/?user=gabrielegonzalez&theme=radical" alt="Racha de contribuciones" />
+</p>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielegonzalez&theme=react-dark" alt="Gráfico de actividad" />
+</p>
+
 
 - 📧 Email: **gg170161@gmail.com**  
 - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/GabrielEGonzalez)  
