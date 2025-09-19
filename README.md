@@ -85,10 +85,10 @@ Mi código funciona… hasta que alguien lo mira. 👀
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielegonzalez&show_icons=true&locale=en&layout=compact" alt="gabrielegonzalez" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielegonzalez&show_icons=true&locale=en" alt="gabrielegonzalez" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielegonzalez&" alt="gabrielegonzalez" /><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=gabrielegonzalez&theme=react-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielegonzalez&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielegonzalez&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /><br>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=gabrielegonzalez" alt="GitHub Streak" /><br>
+  <img src="https://activity-graph-demo.herokuapp.com/graph?username=gabrielegonzalez&theme=react-dark" alt="Activity Graph" />
 </p>
 
 ---
