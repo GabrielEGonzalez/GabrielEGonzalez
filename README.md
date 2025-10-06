@@ -88,7 +88,7 @@ Mi código funciona… hasta que alguien lo mira. 👀
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielegonzalez&theme=react-dark" alt="Gráfico de actividad" />
 </p>
----
+
 
 - 📧 Email: **gg170161@gmail.com**  
 - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/GabrielEGonzalez)  
