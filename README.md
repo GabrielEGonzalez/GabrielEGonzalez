@@ -83,18 +83,8 @@ Mi código funciona… hasta que alguien lo mira. 👀
 
 ---
 
-## 📊 GitHub Stats
-
-
-
 ## 🤝 Connect with me
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielegonzalez&show_icons=true&locale=es&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielegonzalez&show_icons=true&locale=es&layout=compact&theme=radical" alt="Lenguajes principales" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com/?user=gabrielegonzalez&theme=radical" alt="Racha de contribuciones" />
-</p>
+ 
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielegonzalez&theme=react-dark" alt="Gráfico de actividad" />
 </p>
@@ -103,3 +93,4 @@ Mi código funciona… hasta que alguien lo mira. 👀
 - 📧 Email: **gg170161@gmail.com**  
 - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/GabrielEGonzalez)  
 - 💙 [Ko-fi](https://ko-fi.com/GabrielEGonzalez)  
+---
