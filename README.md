@@ -85,6 +85,8 @@ Mi código funciona… hasta que alguien lo mira. 👀
 
 ## 🤝 Connect with me
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=GabrielEGonzalez&show_icons=true&theme=radical)
+
 - 📧 Email: **gg170161@gmail.com**  
 - ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/GabrielEGonzalez)  
 - 💙 [Ko-fi](https://ko-fi.com/GabrielEGonzalez)  
