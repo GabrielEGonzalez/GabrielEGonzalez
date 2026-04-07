@@ -85,10 +85,6 @@ Mi código funciona… hasta que alguien lo mira. 👀
 
 ## 🤝 Connect with me
 
-![Metrics de Gabriel](https://metrics.lecoq.io/GabrielEGonzalez?base=header,repositories,metadata&theme=dark)
-<br>
 ![Racha de Gabriel](https://github-readme-streak-stats.herokuapp.com/?user=GabrielEGonzalez&theme=radical)
 - 📧 Email: **gg170161@gmail.com**  
-- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/GabrielEGonzalez)  
-- 💙 [Ko-fi](https://ko-fi.com/GabrielEGonzalez)  
 ---
